@@ -1,0 +1,13 @@
+.galeria{
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  max-width: auto;
+}
+
+.galeria img{
+	width: 500px;
+  	max-width: 500px;
+  	max-height: 400px;
+  	padding: 1rem;
+}
